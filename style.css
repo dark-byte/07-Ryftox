@@ -1,0 +1,27 @@
+.nav-menu svg{
+    fill: #fff;
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+}
+
+.nav-menu>div{
+    padding: 20px 0;
+}
+
+.nav-menu svg:hover{
+    fill: #5fe3c0;
+}
+
+.div-block-22, .div-block-23{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.x svg{
+    height: 20px;
+    width: 20px;
+}
+
